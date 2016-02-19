@@ -1,0 +1,26 @@
+/*class Declaration*/
+.body-background{
+   background-color: lightsteelblue;
+}
+
+/*.lbl-control{
+    font-size: 20px;
+    width:100px;
+    font-style: italic;
+}*/
+
+/*tag/element selector*/
+
+label{
+    font-size: 20px;
+    width:100px;
+    font-style: italic;
+}
+
+
+/* id based selector*/
+#pageHeading{
+    font-size:30px;
+    font-style: oblique;
+    color:blue;
+}
